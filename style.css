@@ -1,0 +1,49 @@
+/*This is my new stylesheet */
+/*
+p {
+ color: #ff0000;
+background-color: #0000ff;
+}
+*/
+h1 {
+  background-color: #80CBB3;
+  color: #ffffff
+}
+
+a {
+  color: #ff0000
+}
+
+a:link {
+ color: #00ff00;
+ text-decoration: none;
+}
+
+a:hover {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+#specialid {
+color: #00ff00;
+background-color: #000000;
+}
+
+.specialp {
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #FF00FF;
+}
+
+#divexample {
+  color: #0000ff;
+  background-color: #FFFF00;
+}
+
+.spanstyle {
+  color: #00ff00;
+}
