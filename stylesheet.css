@@ -1,0 +1,32 @@
+
+.titlectk {
+color: #000099;
+}
+
+.bodyinfo{
+color: #000099;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:active {
+ color: #ff0000;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+#div2 {
+color: #cc0073;
+}
+
+.span1 {
+  color: #cc0073;
+}
