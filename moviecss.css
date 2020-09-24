@@ -62,6 +62,10 @@ nav{
   margin: 0px 0px 0px 0px;
 }
 
+nav li a:hover {
+  background-color: #ff0019;
+}
+
 .blocking2 {
   display: center;
   max-width: 100px;
