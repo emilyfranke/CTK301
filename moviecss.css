@@ -1,0 +1,70 @@
+body {
+  background-color: #fbd335;
+  font-family: impact;
+  text-align: justify;
+  color: #f514db;
+}
+
+.blocking {
+  padding-top: 0px;
+  margin-top: 0px;
+  display: left;
+}
+
+.boots {
+  border-bottom: 3px solid #7c41b0;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  text-align: justify;
+  color: #7c41b0;
+  letter-spacing: 5px;
+}
+
+.title {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  font-size: 90px;
+  padding-bottom: 0px;
+  text-align: justify;
+}
+
+.red {
+  color:#f52718;
+}
+
+.pink {
+  color:#f514db;
+}
+
+.purple {
+  color: #7c41b0;
+  font-size: 20px;
+}
+
+.Riley {
+  font-size: 40px;
+}
+
+.names {
+  border-bottom: 3px solid #7c41b0;
+  font-size: 40px;
+  text-align: justify;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  word-spacing: 7px;
+}
+
+nav{
+  color: #f514db;
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.blocking2 {
+  display: center;
+  max-width: 100px;
+  height: auto;
+padding-left: 350px;
+}
