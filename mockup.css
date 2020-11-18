@@ -92,3 +92,37 @@ footer {
   display: inline-grid;
   padding-left: 475px;
 }
+
+
+#aboutme {
+  font-family: 'Marvel', sans-serif;
+  color: white;
+  font-size: 25px;
+  grid-column: span 12;
+  display: block;
+  width: 1200px;
+  text-align: center;
+}
+
+#acting {
+  font-family: 'Marvel', sans-serif;
+  color: white;
+  font-size: 25px;
+  grid-column: span 12;
+  display: block;
+    width: 1200px;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+
+#music {
+  font-family: 'Marvel', sans-serif;
+  color: white;
+  font-size: 25px;
+  grid-column: span 12;
+  display: block;
+  width: 1200px;
+  text-align: left;
+margin-left: 60px;
+margin-right: 60px;
