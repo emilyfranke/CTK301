@@ -7,7 +7,6 @@ body {
   width: 1200px;
   border: 1px solid black;
   padding: 24px;
-  display: grid;
   grid-template-columns: repeat(12, 1fr);
   background-color: #6F9283;
   font-family: 'Marvel', sans-serif;
@@ -125,4 +124,6 @@ footer {
   width: 1200px;
   text-align: left;
 margin-left: 60px;
-margin-right: 60px;
+margin-right: 60px; 
+  width: 300px;
+}
