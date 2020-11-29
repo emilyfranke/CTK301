@@ -7,7 +7,7 @@ body {
   width: 1200px;
   border: 1px solid black;
   padding: 24px;
-  grid-template-columns: repeat(12, 1fr);
+ 
   background-color: #6F9283;
   font-family: 'Marvel', sans-serif;
   text-align: center;
