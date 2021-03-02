@@ -59,13 +59,13 @@ li{
     display: inline-grid;
     text-align: center;
   width: 120px;
-  background-color: #FB73AB;
+  background-color: #d9417f;
   border-radius: 100px;
 }
 
 
   li a {
-    background-color: #FB73AB;
+    background-color: #d9417f;
     color: white;
     padding: 10px;
     margin: 10px;
